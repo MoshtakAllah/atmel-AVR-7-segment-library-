@@ -1,8 +1,8 @@
 /*
- * CPPFile1.cpp
- *
- * Created: 11/14/2016 9:20:59 AM
- *  Author: leader
+ * SEVEN_SEG.cpp
+ * GNU Public License
+ * Created: 25/1/2017
+ * Author: Moshtak ALLAH
  */ 
 #include "SEVEN_SEG.h"
 
