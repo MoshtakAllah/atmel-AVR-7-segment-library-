@@ -1,13 +1,13 @@
 /*
- * IncFile1.h
- *
- * Created: 11/14/2016 9:20:50 AM
- *  Author: leader
+ * SEVEN_SEG.h
+ * GNU Public License
+ * Created: 25/1/2017
+ *  Author: Moshtak ALLAH
  */ 
 
 #ifndef SEVEN_SEG_H
 #define SEVEN_SEG_H
-#include <inttypes.h>
+#include <stdint.h>
 #include <avr/io.h>
 
 #define bitRead(var, pin) (((var)>>(pin)) & 0x01)
